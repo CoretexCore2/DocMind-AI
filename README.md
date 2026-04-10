@@ -1,4 +1,4 @@
-# ⚡ PDF Intelligence Engine
+# ⚡ DocMind AI - PDF Intelligence Engine
 ### Agentic PDF Extraction & Intelligence System
 
 > An AI-powered document analysis engine that accepts any PDF and runs it through a 9-stage intelligent pipeline — classifying the document, extracting structured fields, detecting risks, generating summaries, and enabling natural language conversation with the document.
